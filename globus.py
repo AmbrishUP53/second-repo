@@ -1,0 +1,1 @@
+print("today we take only one class  rrkt sir on leave ")
